@@ -60,6 +60,9 @@ class UserRegistrationView(TemplateView):
 
         return super().get_context_data(**kwargs)
 
+flkjdgdjlg + 
+
+sdlk
 
 class UserLoginView(LoginView):
     template_name='accounts/user_login.html'
